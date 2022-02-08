@@ -57,9 +57,9 @@ bool IsTextFile(const std::filesystem::directory_entry& dir_entry){
             if (end_of_path == ".txt")
 				return true;
 			else
-				return false; // not a regular file
+				return false; // not a ".txt" file
 		} else 
-			return false; // not a ".txt" file
+			return false; // not a regular file
 }
 
 // --------------------------------------------------
