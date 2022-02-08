@@ -8,5 +8,4 @@ As a parameter, the program takes the number of threads. When the parameter is m
 
 
 Thanks to Pradeep P for providing the example of simple thread pool (using a blocking queue) in C++:
-
 https://www.pradeepbangalore.in/post/a-simple-thread-pool-using-a-blocking-queue-in-c
