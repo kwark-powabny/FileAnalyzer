@@ -16,7 +16,8 @@
 ### Done 
 
 - [x] Handle recursive directories
-- [x] Count total number of lines in a file  
+- [x] Count total number of files
+- [x] Count number of lines in a file  
 - [x] Count words
 - [x] Count Latin letters
 - [x] Use of GTest for Unit test  
